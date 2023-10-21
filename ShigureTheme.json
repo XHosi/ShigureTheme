@@ -1,10 +1,10 @@
 {
-    "name": "Medium Slate Blue",
-    "description": "Theme based on Medium Slate Blue color!",
+    "name": "Shigure Theme",
+    "description": "Theme based on Mayoi Shigure",
     "authors": [
         {
-            "name": "@vorlie",
-            "id": "614807913302851594"
+            "name": "@Arbuzow",
+            "id": "557408660549009418"
         }
     ],
     "semanticColors": {
@@ -129,7 +129,7 @@
     "spec": 2,
 	"background": {
 	"blur": 0,
-	"url": "https://github.com/XHosi/NyanaBananyaVendetta/blob/3edbbc4aa92832676748244e24dd58f966871083/F5GzflMXgAA-_gt.jpg",
+	"url": "https://raw.githubusercontent.com/XHosi/ShigureTheme/main/background2.jpg",
 	"alpha": 0.9,
 	"color": "#ffffff"
   
